@@ -1,0 +1,7 @@
+D:\C++\lab4str9\bin\Debug\lab4str9.exe.config
+D:\C++\lab4str9\bin\Debug\lab4str9.exe
+D:\C++\lab4str9\bin\Debug\lab4str9.pdb
+D:\C++\lab4str9\obj\Debug\lab4str9.csproj.AssemblyReference.cache
+D:\C++\lab4str9\obj\Debug\lab4str9.csproj.CoreCompileInputs.cache
+D:\C++\lab4str9\obj\Debug\lab4str9.exe
+D:\C++\lab4str9\obj\Debug\lab4str9.pdb
