@@ -15,7 +15,7 @@ namespace лаб4стр9
             for (int i = 0; i < parts.Length; i++)
                 Console.WriteLine(parts[i]);
 
-            // Размещаем слова в обратном порядке перед сборкой.
+            
             Array.Reverse(parts);
             string whole = String.Join(" | ", parts);
             Console.WriteLine("Результат сборки:");
